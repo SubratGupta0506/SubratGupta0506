@@ -1,140 +1,176 @@
-<h1 align="center">Hi 👋, I'm Subrat Gupta</h1>
-<h3 align="center">Computer Science Student | AI & ML Enthusiast | Full Stack Developer</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=AI+%26+Machine+Learning+Developer;Full+Stack+Web+Developer;Cloud+Deployment+Enthusiast;Building+things+that+matter+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Subrat%20Gupta&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%7C%20Machine%20Learning%20%7C%20Cloud%20Enthusiast&descAlignY=55&descSize=18"/>
 
----
+</div>
 
-## 🙋‍♂️ About Me
+<div align="center">
 
-- 🎓 B.Tech Computer Science Engineering @ **GITAM University, Bengaluru** (2023–2027)
-- 🔬 Former Intern @ **IPR (Institute for Plasma Research)**
-- 🌱 Currently learning **MLOps, Cloud Deployment & Advanced NLP**
-- 🚀 I love building AI-powered apps and deploying them live
-- 💬 Ask me about **Python, Flask, OpenCV, spaCy, AWS, Docker, Hugging Face**
-- 📫 Reach me at: **your.email@gmail.com**
-- ⚡ Fun fact: I deploy ML models with system-level dependencies just for fun!
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=🤖+Building+AI+that+solves+real+problems;☁️+Deploying+ML+models+to+the+cloud;🔍+Computer+Vision+%2B+NLP+Developer;🧠+Turning+data+into+intelligent+solutions;🚀+From+idea+to+live+deployment!" alt="Typing SVG" />
+
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+<img align="right" alt="AI coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### 🙋‍♂️ About Me
 
-### AI / ML
-![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
+```python
+subrat = {
+    "name"       : "Subrat Gupta",
+    "university" : "GITAM University, Bengaluru",
+    "degree"     : "B.Tech CSE (2023–2027)",
+    "internship" : "IPR — Institute for Plasma Research",
+    "passion"    : ["AI/ML", "Computer Vision",
+                    "NLP", "Cloud Deployment"],
+    "currently"  : "Building & deploying ML models",
+    "goal"       : "AI Engineer 🚀",
+    "fun_fact"   : "I deploy ML apps with Tesseract OCR"
+                   " inside Docker just for fun! 😄"
+}
+```
+
+<br clear="right"/>
+
+---
+
+## 🧠 AI & ML Skills
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)
 
-### Web & Backend
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+</div>
 
-### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+## ☁️ Cloud & Deployment
+
+<div align="center">
+
+![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-### Tools & Platforms
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)
+
+</div>
+
+## 🌐 Web (Supporting Skills)
+
+<div align="center">
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+</div>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔍 [Business Card OCR](https://github.com/SubratGupta0506/Business-Card-OCR)
-> AI-powered app that scans business cards and extracts Name, Phone, Email, Organization using OCR + NER
+<div align="center">
 
-- 🛠️ Flask + OpenCV + Tesseract + spaCy + Docker
-- ☁️ Deployed on Hugging Face Spaces (free, always on)
-- 🌐 **Live:** [subrat05-business-card-ocr.hf.space](https://subrat05-business-card-ocr.hf.space)
+| 🔥 Project | 📝 Description | 🛠️ Stack | 🌐 Live |
+|---|---|---|---|
+| **[Business Card OCR](https://github.com/SubratGupta0506/Business-Card-OCR)** | AI that scans business cards & extracts entities using OCR + NER | Flask · OpenCV · Tesseract · spaCy · Docker | [▶ Live Demo](https://subrat05-business-card-ocr.hf.space) |
+| **[Aarogya Sahayak](https://github.com/SubratGupta0506/Aarogya-Sahayak)** | Multilingual AI health assistant in Hindi, English & Punjabi | HTML · JS · Gemini AI | 🚧 API Quota |
+| **[VidyaSetu](https://github.com/SubratGupta0506/VidyaSetu)** | Cloud e-learning platform with AI content generation pipeline | AWS S3 · Supabase · n8n · Lovable AI | 🌐 Live |
 
----
-
-### 🏥 [Aarogya Sahayak](https://github.com/SubratGupta0506/Aarogya-Sahayak)
-> Multilingual AI health assistant supporting Hindi, English & Punjabi
-
-- 🛠️ HTML + CSS + JavaScript + Gemini AI
-- 🌐 Analyzes symptoms & recommends doctors with voice/text input
-- 🚨 Emergency alert system for critical symptoms
+</div>
 
 ---
 
-### 🎓 [VidyaSetu](https://github.com/SubratGupta0506/VidyaSetu)
-> Scalable cloud-based e-learning platform with AI-powered content generation
+## 🏆 What Makes Me Different
 
-- 🛠️ Tailwind CSS + Node.js + Supabase + AWS S3 + n8n
-- 🤖 Auto-generates quizzes, notes & podcasts from YouTube videos
-- 🧠 Vidya AI assistant for real-time doubt solving
-- 🏛️ Built during internship at **GITAM University**
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║   ✅  I don't just build models — I DEPLOY them             ║
+║   ✅  I solve real deployment issues (Tesseract in Docker)   ║
+║   ✅  I work with OCR + NLP + Computer Vision together       ║
+║   ✅  I use Cloud (AWS S3, Hugging Face) in real projects    ║
+║   ✅  I automate workflows with n8n pipelines                ║
+║   ✅  I build multilingual AI for Indian languages           ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+</div>
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SubratGupta0506&show_icons=true&theme=tokyonight&hide_border=true" alt="Subrat's GitHub stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SubratGupta0506&theme=tokyonight&hide_border=true" alt="Subrat's streak" width="48%"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubratGupta0506&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="40%"/>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=SubratGupta0506&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SubratGupta0506&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" width="48%"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubratGupta0506&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff" width="38%"/>
+
+</div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏅 Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SubratGupta0506&theme=tokyonight&no-frame=true&row=1&column=6" alt="trophies"/>
-</p>
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=SubratGupta0506&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10" />
+
+</div>
 
 ---
 
 ## 📈 Contribution Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SubratGupta0506&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
-</p>
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SubratGupta0506&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&hide_border=true" width="95%"/>
+
+</div>
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Let's Connect!
 
-<p align="center">
-  <a href="https://linkedin.com/in/your-profile" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/SubratGupta0506" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="mailto:your.email@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://huggingface.co/Subrat05" target="_blank">
-    <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
-  </a>
-</p>
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect!-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SubratGupta0506)
+[![Hugging Face](https://img.shields.io/badge/Hugging_Face-Try_My_Apps-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/Subrat05)
+[![Gmail](https://img.shields.io/badge/Gmail-Say_Hello!-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SubratGupta0506&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+<div align="center">
 
-<p align="center">
-  <i>"Building AI solutions that make a real difference — one project at a time 🚀"</i>
-</p>
+<img src="https://komarev.com/ghpvc/?username=SubratGupta0506&label=👀+Profile+Views&color=00D9FF&style=for-the-badge" />
+
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
+
+</div>
