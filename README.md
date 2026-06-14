@@ -82,36 +82,6 @@
 - 🏛️ Built during internship at **GITAM University**
 - 🌐 **Live:**[https://vidya-setu-kohl.vercel.app/]
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SubratGupta0506&show_icons=true&theme=tokyonight&hide_border=true" alt="Subrat's GitHub stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SubratGupta0506&theme=tokyonight&hide_border=true" alt="Subrat's streak" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubratGupta0506&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="40%"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SubratGupta0506&theme=tokyonight&no-frame=true&row=1&column=6" alt="trophies"/>
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SubratGupta0506&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
-</p>
-
----
 
 ## 🌐 Connect With Me
 
